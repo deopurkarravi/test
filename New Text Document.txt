@@ -1,0 +1,35 @@
+RTM Confluence:
+https://econfluence.int.asurion.com/display/RTM/APIs+XMLs 
+
+Services URLs;
+https://econfluence.int.asurion.com/display/RTM/Version+1.0+Case+Administration#Version1.0CaseAdministration-CreateChargeOrderhttps://econfluence.int.asurion.com/display/RTM/Specs+Retail+Node+Services#SpecsRetailNodeServices-CreateServiceOrderhttps://econfluence.int.asurion.com/display/RTM/Specs+Retail+Node+Services#SpecsRetailNodeServices-CreateShippingOrder?
+/dax/v1/salesorder/create --https://econfluence.int.asurion.com/pages/viewpage.action?pageId=147262829
+/dax/v1/salesorder/update --https://econfluence.int.asurion.com/pages/viewpage.action?pageId=147264935
+ 
+Mappings:
+https://econfluence.int.asurion.com/download/attachments/144683501/dax-xml-mapping.xlsx?api=v2 
+https://econfluence.int.asurion.com/download/attachments/106604316/RMT_ORDER1.xlsx?api=v2
+
+
+***
+saving HPP to current release
+saving webwb CareCentralCustomStyle css for length of breadcrumbs
+
+*************
+ 
+Customer Account	Invoice Account	   
+18888	XWAL_ESC	   
+18889	XCOST_ESC	   
+18890	XSMARTPAY	 
+
+
+
+
+-
+
+Ist- Est
+6:30 - 9
+8:30 - 11.
+[?8/?24/?2017 3:30 PM] Prabhu, Jaydeep: 
+jaydeep/install
+phone number: 02365 - 255799
